@@ -25,7 +25,7 @@ Project Atelier is a frontend retail web portal for HackReactor's Front End Caps
 
 ## Usage
 
-To be filled out later.
+Frontend retail web application for browsing products and leaving/reading questions and reviews.
 
 ## Requirements
 
